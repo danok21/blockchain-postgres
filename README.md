@@ -1,2 +1,2 @@
 # blockchain-postgres 
-export DATABASE_URL=postgres://postgres:password@localhost/block_data
+export DATABASE_URL=postgres://user:password@localhost/db to add environment variables on the command line.
